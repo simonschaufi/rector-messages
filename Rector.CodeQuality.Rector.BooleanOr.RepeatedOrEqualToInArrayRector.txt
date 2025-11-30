@@ -1,0 +1,1 @@
+Simplify repeated || compare of the same value, to `in_array()` call
