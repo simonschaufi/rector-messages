@@ -1,0 +1,1 @@
+Use `\TYPO3\CMS\Core\View\ViewInterface` in Extbase and call `$view->getRenderingContext()` to perform operations instead

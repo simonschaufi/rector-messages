@@ -1,0 +1,1 @@
+Migrate indexed item array keys to associative for type select, radio and check

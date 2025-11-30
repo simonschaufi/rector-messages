@@ -1,0 +1,1 @@
+Remove `@return` docblock with the same type as defined in PHP

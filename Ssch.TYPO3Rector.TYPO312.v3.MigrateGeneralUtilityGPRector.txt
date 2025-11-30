@@ -1,0 +1,1 @@
+Migrate `GeneralUtility::_GP()` to use PSR-7 ServerRequest instead

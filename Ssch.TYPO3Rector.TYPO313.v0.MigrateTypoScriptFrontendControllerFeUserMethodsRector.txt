@@ -1,0 +1,1 @@
+Migrate `$GLOBALS['TSFE']->fe_user->xxx()` methods to use the request attribute

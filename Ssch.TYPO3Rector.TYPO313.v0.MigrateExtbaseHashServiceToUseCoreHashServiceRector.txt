@@ -1,0 +1,1 @@
+Migrate the class HashService from extbase to the one from TYPO3 core

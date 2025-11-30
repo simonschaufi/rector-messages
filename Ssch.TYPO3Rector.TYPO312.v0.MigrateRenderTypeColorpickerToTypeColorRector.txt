@@ -1,0 +1,1 @@
+Migrate renderType colorpicker to type color

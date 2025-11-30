@@ -1,0 +1,1 @@
+Rename `$GLOBALS['TYPO3_CONF_VARS']['DB']['Connections'][CONNECTION_NAME]['tableoptions']` to `defaultTableOptions` and its inner `collate` key to `collation`

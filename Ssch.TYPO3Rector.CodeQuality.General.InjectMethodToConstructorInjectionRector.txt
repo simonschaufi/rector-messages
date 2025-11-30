@@ -1,0 +1,1 @@
+Replace inject method to constructor injection

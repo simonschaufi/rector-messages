@@ -1,0 +1,1 @@
+Refactor and cleanup file ext_emconf.php

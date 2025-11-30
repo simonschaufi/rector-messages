@@ -1,0 +1,1 @@
+Change simple property init and assign to constructor promotion

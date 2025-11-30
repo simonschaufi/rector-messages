@@ -1,0 +1,1 @@
+Add previous exception when re-throwing in a catch block

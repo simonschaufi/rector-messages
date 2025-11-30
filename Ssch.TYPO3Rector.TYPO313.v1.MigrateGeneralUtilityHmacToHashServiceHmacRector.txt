@@ -1,0 +1,1 @@
+Migrate `GeneralUtility::hmac()` to `HashService::hmac()`

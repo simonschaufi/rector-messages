@@ -1,0 +1,1 @@
+Move method `ExtensionManagementUtility::allowTableOnStandardPages` to TCA configuration

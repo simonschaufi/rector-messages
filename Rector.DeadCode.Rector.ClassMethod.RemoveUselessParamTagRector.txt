@@ -1,0 +1,1 @@
+Remove `@param` docblock with the same type as parameter type

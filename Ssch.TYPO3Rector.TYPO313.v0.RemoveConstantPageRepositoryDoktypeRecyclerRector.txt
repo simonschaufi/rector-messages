@@ -1,0 +1,1 @@
+Remove the constant `TYPO3\CMS\Core\Domain\Repository\PageRepository::DOKTYPE_RECYCLER`

@@ -1,0 +1,1 @@
+Decorate read-only property with `readonly` attribute

@@ -1,0 +1,1 @@
+Change `executeQuery()` with parameters to `bindValue()` with explicit values

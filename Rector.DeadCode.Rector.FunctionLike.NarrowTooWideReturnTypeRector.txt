@@ -1,0 +1,1 @@
+Narrow too wide return type declarations if possible
