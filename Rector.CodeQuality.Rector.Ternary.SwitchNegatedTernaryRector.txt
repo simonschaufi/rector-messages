@@ -1,1 +1,1 @@
-Switch negated ternary condition rector
+Switch negated ternary condition
