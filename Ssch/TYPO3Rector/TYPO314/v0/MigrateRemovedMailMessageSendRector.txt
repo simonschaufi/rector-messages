@@ -1,0 +1,1 @@
+Migrate removed `MailMessage->send()` to `MailerInterface->send()` via dependency injection or `GeneralUtility::makeInstance()` in static methods

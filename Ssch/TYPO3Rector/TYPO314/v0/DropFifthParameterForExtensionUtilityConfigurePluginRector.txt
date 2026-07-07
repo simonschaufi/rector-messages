@@ -1,0 +1,1 @@
+Drop the fifth parameter `$pluginType` of `ExtensionUtility::configurePlugin()`
