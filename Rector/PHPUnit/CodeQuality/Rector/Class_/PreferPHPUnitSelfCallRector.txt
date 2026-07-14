@@ -1,0 +1,1 @@
+Change PHPUnit calls from `$this->assert*()` to `self::assert*()`

@@ -1,0 +1,1 @@
+Change assertNotEmpty() and assertNotNull() on an object to more clear assertInstanceof()

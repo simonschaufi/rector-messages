@@ -1,0 +1,1 @@
+Turn array return to yield in data providers

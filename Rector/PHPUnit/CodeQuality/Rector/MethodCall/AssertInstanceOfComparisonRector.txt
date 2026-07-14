@@ -1,0 +1,1 @@
+Turn instanceof comparisons to their method name alternatives in PHPUnit TestCase

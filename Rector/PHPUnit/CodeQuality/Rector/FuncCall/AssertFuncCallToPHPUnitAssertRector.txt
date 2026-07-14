@@ -1,0 +1,1 @@
+Turn assert() calls in tests to PHPUnit assert method alternative

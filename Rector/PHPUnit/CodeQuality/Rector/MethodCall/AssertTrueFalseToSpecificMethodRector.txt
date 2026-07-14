@@ -1,0 +1,1 @@
+Turn true/false comparisons to their method name alternatives in PHPUnit TestCase when possible

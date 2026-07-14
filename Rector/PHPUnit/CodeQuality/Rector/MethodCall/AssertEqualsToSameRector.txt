@@ -1,0 +1,1 @@
+Turn `assertEquals()` into stricter `assertSame()` for scalar values in PHPUnit TestCase

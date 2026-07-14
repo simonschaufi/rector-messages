@@ -1,0 +1,1 @@
+Inline stub property only used to pass as new argument to a method call
