@@ -1,0 +1,1 @@
+Simplify negated "and" conditions to "or" with de Morgan theorem

@@ -1,0 +1,1 @@
+Make nullable object if conditions more explicit
