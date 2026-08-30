@@ -1,0 +1,1 @@
+Remove class method that only delegates call to parent class method with the same values
