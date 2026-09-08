@@ -1,0 +1,1 @@
+Migrate passing an array of configuration values to Extbase attributes
