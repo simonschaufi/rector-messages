@@ -1,0 +1,1 @@
+Use DateTimeAspect instead of superglobals like `$GLOBALS['EXEC_TIME']`

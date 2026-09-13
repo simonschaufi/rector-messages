@@ -1,0 +1,1 @@
+Change QueryBuilder::resetQueryPart() to $queryBuilder->reset*()
