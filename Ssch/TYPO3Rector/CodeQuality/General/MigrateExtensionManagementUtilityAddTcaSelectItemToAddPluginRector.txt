@@ -1,0 +1,1 @@
+Migrate `ExtensionManagementUtility::addTcaSelectItem()` for tt_content.CType to `ExtensionManagementUtility::addPlugin()`
