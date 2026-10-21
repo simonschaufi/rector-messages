@@ -1,0 +1,1 @@
+Add bool return type when returns mix direct true/false consts with strict bool expressions
