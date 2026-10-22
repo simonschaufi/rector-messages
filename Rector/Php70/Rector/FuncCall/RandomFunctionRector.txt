@@ -1,0 +1,1 @@
+Change rand, srand, and getrandmax to newer alternatives
